@@ -1,0 +1,24 @@
+{
+  "name": "neo-lib",
+  "version": "1.0.0",
+  "description": "The methods for working with the NEO blockchain. It's suitable for web wallets and exchanges",
+  "main": "NeoLib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewVV/neo-lib.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewVV/neo-lib/issues"
+  },
+  "homepage": "https://github.com/AndrewVV/neo-lib#readme",
+  "dependencies": {
+    "@cityofzion/neon-js": "^4.7.2",
+    "node-fetch": "^2.6.0"
+  }
+}
