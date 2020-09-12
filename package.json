@@ -19,6 +19,6 @@
   "homepage": "https://github.com/AndrewVV/neo-lib#readme",
   "dependencies": {
     "@cityofzion/neon-js": "^4.7.2",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
